@@ -1,0 +1,10 @@
+run program by typing
+
+1) make
+2) make run
+
+program will ask for number of iterations to run for
+change grid size number in makefile
+
+can terminate program early by changing sentinel value in sentivelvalue.txt. Change value from 1 to 0 and save, this terminates program early
+
